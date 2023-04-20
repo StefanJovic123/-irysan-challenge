@@ -1,0 +1,8 @@
+nasa-api/node_modules
+nasa-ui/node_modules
+node_modules
+
+./nasa-api/node_modules
+./nasa-ui/node_modules
+/nasa-api/node_modules
+/nasa-ui/node_modules
